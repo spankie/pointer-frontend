@@ -1,7 +1,7 @@
 <template>
   <div id="app" class="sans-serif">
     <Header/>
-    <Home msg="Tasks Pointing Sessions" class="black-60"/>
+    <Home msg="Tasks Pointing Sessions" class="black-70"/>
     <Footer/>
   </div>
 </template>
